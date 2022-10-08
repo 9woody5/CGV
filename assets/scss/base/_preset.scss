@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+
+.blind{
+    position: absolute;
+    width: 1px; height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0 );
+}
+body{
+    min-width: 320px;
+    &.hide{
+        overflow: hidden;
+    }
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+}
+::-webkit-scrollbar{-webkit-appearance:none; display:none}
+::-webkit-scrollbar:vertical{width:0}
+::-webkit-scrollbar:horizontal{height:0}
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-track{background-color:transparent}
+
+.wrap{
+    width: 100%;
+}
+
+
+//image sprite
+
+.logo, .per::before{
+    background-image: url(../img/icon/group-ic-sprite.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}

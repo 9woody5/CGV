@@ -1,0 +1,29 @@
+{
+    "items":[
+        {
+            "thumbSrc":"./assets/img/images/bn01.jpg",
+            "title":"배너1",
+            "link":"링크1"
+        },
+        {
+            "thumbSrc":"./assets/img/images/bn02.jpg",
+            "title":"배너2",
+            "link":"링크1"
+        },
+        {
+            "thumbSrc":"./assets/img/images/bn03.jpg",
+            "title":"배너3",
+            "link":"링크1"
+        },
+        {
+            "thumbSrc":"./assets/img/images/bn04.jpg",
+            "title":"배너4",
+            "link":"링크1"
+        },
+        {
+            "thumbSrc":"./assets/img/images/bn05.jpg",
+            "title":"배너5",
+            "link":"링크1"
+        }
+    ]
+}

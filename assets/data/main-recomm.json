@@ -1,0 +1,22 @@
+{
+    "items":[
+        {
+            "videoThumb":"./assets/img/images/thumb-reco01.jpg",
+            "title":"컴백홈",
+            "desc":"놀면 모혀 예고편이나 보던가 아~",
+            "link":"링크1"
+        },
+        {
+            "videoThumb":"./assets/img/images/thumb-reco02.jpg",
+            "title":"극장판 엄마 까투리-도시로",
+            "desc":"'엄마 까투리'의 첫 번째 극장판!",
+            "link":"링크2"
+        },
+        {
+            "videoThumb":"./assets/img/images/thumb-reco03.jpg",
+            "title":"프린세스 아야",
+            "desc":"운명을 넘어선 환상의 모험",
+            "link":"링크3"
+        }
+    ]
+}
