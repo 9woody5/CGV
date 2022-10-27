@@ -762,24 +762,6 @@ section h2{
             transform: rotate(180deg);
         }
     }
-    // .grid{
-    //     display: grid;
-    //     grid-template-columns: 3fr 2fr;
-    //     grid-template-rows: 25vw 25vw;
-    //     gap: 20px;
-    //     li{
-    //         border-radius: 10px;
-    //         overflow: hidden;
-    //         &:nth-child(1){
-    //             grid-row: 1/3;
-    //         }
-    //     }
-    //     img{
-    //         width: 100%;
-    //         height: 100%;
-    //         object-fit: cover;
-    //     }
-    // }
 }
 .btn-ticket{
     position: fixed;
