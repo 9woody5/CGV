@@ -1416,13 +1416,6 @@ section h2 {
   display: flex;
   justify-content: space-between;
 }
-.sc-special .btn-all {
-  position: absolute;
-  top: 10px;
-  right: 0;
-  margin-top: 18px;
-  padding-right: 20px;
-}
 .sc-special .special-list {
   margin-top: 16px;
 }
